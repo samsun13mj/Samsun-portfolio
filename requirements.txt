@@ -1,0 +1,31 @@
+# Samsun Portfolio - Project Requirements
+
+# System Requirements
+# Node.js >= 14.0.0
+# npm >= 6.0.0
+
+# Project Dependencies (specified in package.json)
+# These are the npm packages required to run this project:
+
+react>=18.0.0
+react-dom>=18.0.0
+react-scripts>=5.0.0
+react-icons>=5.6.0
+lottie-react>=2.4.1
+
+# Development Setup Instructions:
+# 1. Install Node.js from https://nodejs.org/ (includes npm)
+# 2. Navigate to project directory: cd samsun-portfolio
+# 3. Install dependencies: npm install
+# 4. Start development server: npm start
+# 5. Open browser to: http://localhost:3000
+
+# Build for Production:
+# npm run build
+# This creates an optimized production build in the build/ directory
+
+# Notes:
+# - This project uses React 18 with modern JavaScript
+# - Lottie is used for animations
+# - React Icons is used for social media icons
+# - The project uses Tailwind CSS for styling
