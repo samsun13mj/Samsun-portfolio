@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f0f3076.css",
+    "main.js": "/static/js/main.aec35e75.js",
+    "static/media/Samsun S Resume.pdf": "/static/media/Samsun S Resume.1bbad5d0ec65593c189a.pdf",
+    "index.html": "/index.html",
+    "main.0f0f3076.css.map": "/static/css/main.0f0f3076.css.map",
+    "main.aec35e75.js.map": "/static/js/main.aec35e75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f0f3076.css",
+    "static/js/main.aec35e75.js"
+  ]
+}
